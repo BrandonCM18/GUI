@@ -15,14 +15,14 @@ El programa valida los siguientes tipos de cadenas:
 ## Capturas de Pantalla
 A continuación, se muestran algunas capturas del funcionamiento del programa:
 
-1. **Validación exitosa**:
-   ![Validación exitosa](ValidacionCorrecta.png)
+1. **Validacion exitosa**:
+   ![Validación exitosa](img/ValidacionCorrecta.png)
 
-2. **Validación con errores**:
-   ![Validación con errores](ValidacionConErrores.png)
+2. **Validacion con errores**:
+   ![Validación con errores](img/ValidacionConErrores.png)
 
-3. **Mensaje de éxito**:
-   ![Mensaje de éxito](ValidacionExitosa.png)
+3. **Mensaje de exito**:
+   ![Mensaje de éxito](img/ValidacionExitosa.png)
 
 ## Como Usar
 1. Clona este repositorio:
